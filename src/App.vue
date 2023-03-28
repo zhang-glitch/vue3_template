@@ -1,3 +1,7 @@
+<script setup>
+console.log(process.env.VUE_APP_BASE_API)
+</script>
+
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
